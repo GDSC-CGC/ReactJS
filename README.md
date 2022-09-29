@@ -7,5 +7,5 @@
 
 ## Track Links!
 
-1. [Start React Js track 1](https://github.com/GDSC-CGC/Start-ReactJS/blob/main/React_Js_Track1.md)
-2. [Start React Js track 2](https://github.com/GDSC-CGC/Start-ReactJS/blob/main/React_js_Track2.md)
+1. [Start React Js track 1](https://github.com/GDSC-CGC/ReactJS/blob/main/React_Js_Track1.md)
+2. [Start React Js track 2](https://github.com/GDSC-CGC/ReactJS/blob/main/React_js_Track2.md)
